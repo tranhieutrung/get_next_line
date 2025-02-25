@@ -16,7 +16,7 @@ The primary functionality of the get_next_line function is to read lines from a 
 ## Result
 Actual Status : finished.
 
-<img width="1914" src="https://github.com/tranhieutrung/images/blob/main/get_next_line_result.png">
+<img width="1914" src="https://github.com/tranhieutrung/get_next_line/blob/main/get_next_line_result.png">
 
 ## Contribution
 If you'd like to contribute to the project, please create a pull request on GitHub. Please adhere to the contribution guidelines outlined in the CONTRIBUTING.md file.
